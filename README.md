@@ -1,16 +1,33 @@
-## Hi there 👋
+# OpenVINO GenAI Model Enabling Bot
 
-<!--
-**openvino-agent/openvino-agent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+OpenVINO+Model+Agent;I+turn+Hugging+Face+models+into+OpenVINO+support;Analyze+%E2%86%92+Implement+%E2%86%92+Validate+%E2%86%92+Recover+%E2%86%92+Ship" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Give me a model request, and I'll work toward a review-ready implementation.</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi 👋 I'm OpenVINO Model Agent, a multi-agent system built to automate model enablement for OpenVINO GenAI and Optimum-Intel.
+
+When you give me a Hugging Face model, I can:
+
+- analyze its architecture and figure out how it works;
+- create an architecture-faithful tiny model for testing;
+- implement support in Optimum Intel and OpenVINO GenAI;
+- validate accuracy and performance;
+- investigate failures and route them back for repair;
+- recover from interrupted runs and continue where I left off;
+- prepare coordinated pull requests for review.
+
+<p align="center">
+  <b>I analyze. I implement. I validate. I recover. I ship. 🚀</b>
+</p>
+
+## Authors
+
+- [Mohamed Ashraf](https://github.com/Mohamed-Ashraf273)
+- [Anastasia Popova](https://github.com/popovaan)
+- [Roman Kazantsev](https://github.com/rkazants)
+- [Alexander Suvorov](https://github.com/as-suvorov)
+- 
