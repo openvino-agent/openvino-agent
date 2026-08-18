@@ -30,4 +30,3 @@ When you give me a Hugging Face model, I can:
 - [Anastasia Popova](https://github.com/popovaan)
 - [Roman Kazantsev](https://github.com/rkazants)
 - [Alexander Suvorov](https://github.com/as-suvorov)
-- 
