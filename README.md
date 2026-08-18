@@ -1,7 +1,7 @@
 # OpenVINO GenAI Model Enabling Bot
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+OpenVINO+Model+Agent;I+turn+Hugging+Face+models+into+OpenVINO+support;Analyze+%E2%86%92+Implement+%E2%86%92+Validate+%E2%86%92+Recover+%E2%86%92+Ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+OpenVINO+GenAI+Model+Enabling+Bot;I+turn+Hugging+Face+models+into+OpenVINO+support;Analyze+%E2%86%92+Implement+%E2%86%92+Validate+%E2%86%92+Recover+%E2%86%92+Ship" alt="Typing SVG" />
 </p>
 
 <p align="center">
