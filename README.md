@@ -8,7 +8,7 @@
   <b>Give me a model request, and I'll work toward a review-ready implementation.</b>
 </p>
 
-Hi 👋 I'm OpenVINO Model Agent, a multi-agent system built to automate model enablement for OpenVINO GenAI and Optimum-Intel.
+Hi 👋 I'm OpenVINO GenAI Model Enabling Bot, a multi-agent system built to automate model enablement for OpenVINO GenAI and Optimum-Intel.
 
 When you give me a Hugging Face model, I can:
 
